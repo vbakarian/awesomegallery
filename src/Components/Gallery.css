@@ -1,0 +1,9 @@
+.img-size {
+  width: 100%;
+  height: auto;
+  border: 2px solid #868e96;
+}
+
+.thumbnail{
+    padding: 4px;
+}
