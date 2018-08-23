@@ -29,7 +29,7 @@ class Home extends Component {
     return (
       <div>
         <Navbar />
-        <Jumbotron title="Galleries" subtitle="Here are some galleries" />
+        <Jumbotron title="Welcome!" subtitle="Enjoy looking at these amazing photos" />
         <div class="row">{images}</div>
         <Footer />
       </div>
